@@ -34,33 +34,14 @@ Nosso foco é criar ecossistemas onde a tecnologia trabalha pelo seu escritório
 - **Inteligência de Dados:** Dashboards interativos para acompanhamento de honorários, produtividade da equipe e volumetria de processos.
 - **Desenvolvimento Sob Medida:** Criação de scripts, APIs e portais internos para gestão de documentos e controle de prazos.
 
-## 💻 Tecnologias que Utilizamos
-
-Nossa stack é escolhida para garantir escalabilidade, segurança e velocidade na entrega das soluções em nossos projetos:
-
-<div align="center">
-  <!-- Linguagens & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  
-  <!-- Bancos de Dados -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <!-- Automação & DevOps -->
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
 ## 👥 Nosso Time
 
 Fundada e dirigida por:
 
 * Mateus Silveira Cezar
-* Pedro Grigorios
+* Pedro Grigorio
 * Lucas Ribeiro
-* Fernando Mehzer
+* Fernando Mezher
 
 ## 📞 Contato
 
@@ -68,7 +49,7 @@ Pronto para escalar seu escritório com automação? Fale conosco:
 
 - 🌐 **Site:** [mapech.com.br](https://mapech.com.br) 
 - 💼 **LinkedIn:** [Página da Mapech](https://linkedin.com/company/sua-pagina) *(Atualize com o link real)*
-- ✉️ **E-mail:** contato@mapech.com.br *(Atualize com o e-mail se necessário)*
+- ✉️ **E-mail:** contato@mapech.com.br 
 
 <br>
 <p align="center">
