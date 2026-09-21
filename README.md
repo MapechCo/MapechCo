@@ -13,7 +13,6 @@
 <p align="center">
   <a href="#-sobre-a-mapech">Sobre nós</a> •
   <a href="#-o-que-fazemos">O que fazemos</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-nosso-time">Nosso Time</a> •
   <a href="#-contato">Contato</a>
 </p>
