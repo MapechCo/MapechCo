@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- Insira o link da logo da Mapech abaixo -->
-  <!-- <img src="https://sua-imagem-aqui.png" alt="Mapech Logo" width="250"/> -->
+  <img src="https://github.com/MapechCo/MapechCo/blob/main/image.png" alt="Mapech Logo" width="250"/> 
   <br>
   MAPECH
 </h1>
